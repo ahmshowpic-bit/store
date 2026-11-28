@@ -7,11 +7,11 @@
     "notes":  [
                   {
                       "value":  "تحديث إلزامي من داخل التطبيق",
-                      "PSPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing\\notes-ar.txt",
-                      "PSParentPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                      "PSPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit (1)\\FixManager-R38-signing\\notes-ar.txt",
+                      "PSParentPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit (1)\\FixManager-R38-signing",
                       "PSChildName":  "notes-ar.txt",
                       "PSDrive":  {
-                                      "CurrentLocation":  "Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                                      "CurrentLocation":  "Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit (1)\\FixManager-R38-signing",
                                       "Name":  "C",
                                       "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
                                       "Root":  "C:\\",
@@ -36,11 +36,11 @@
                   },
                   {
                       "value":  "إصلاح إشعار رفع Drive",
-                      "PSPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing\\notes-ar.txt",
-                      "PSParentPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                      "PSPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit (1)\\FixManager-R38-signing\\notes-ar.txt",
+                      "PSParentPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit (1)\\FixManager-R38-signing",
                       "PSChildName":  "notes-ar.txt",
                       "PSDrive":  {
-                                      "CurrentLocation":  "Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                                      "CurrentLocation":  "Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit (1)\\FixManager-R38-signing",
                                       "Name":  "C",
                                       "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
                                       "Root":  "C:\\",
@@ -65,11 +65,11 @@
                   },
                   {
                       "value":  "ربط Google Drive ثابت ورسائل أخطاء أوضح",
-                      "PSPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing\\notes-ar.txt",
-                      "PSParentPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                      "PSPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit (1)\\FixManager-R38-signing\\notes-ar.txt",
+                      "PSParentPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit (1)\\FixManager-R38-signing",
                       "PSChildName":  "notes-ar.txt",
                       "PSDrive":  {
-                                      "CurrentLocation":  "Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                                      "CurrentLocation":  "Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit (1)\\FixManager-R38-signing",
                                       "Name":  "C",
                                       "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
                                       "Root":  "C:\\",
