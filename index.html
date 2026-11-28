@@ -235,7 +235,16 @@ footer b{color:var(--violet);font-weight:600}
 
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}html{scroll-behavior:auto}}
 </style>
-</head>
+<style>
+.and{display:grid;grid-template-columns:1.1fr .9fr;gap:28px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:var(--r-lg);padding:30px;box-shadow:var(--shadow)}
+.and h3{font-size:1.3rem;margin-bottom:8px}.and p.d{color:var(--muted);margin-bottom:14px}
+.and ul{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;margin-bottom:20px}
+.and li{display:flex;gap:8px;align-items:flex-start;font-size:.93rem}.and li:last-child{grid-column:1/-1}.and li:before{content:"✓";color:var(--mint);font-weight:800}
+.and .ph{justify-self:center;width:200px;height:380px;border-radius:30px;border:6px solid #1b1740;background:linear-gradient(160deg,#f0ecff,#fff);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;box-shadow:0 24px 40px -22px rgba(60,40,160,.5)}
+.and .ph img{width:84px;height:84px;border-radius:20px}.and .ph b{font-family:var(--brand);font-size:.95rem;direction:ltr}.and .ph small{color:var(--muted)}
+.and .note{margin-top:10px;font-size:.8rem;color:var(--muted)}
+@media(max-width:760px){.and{grid-template-columns:1fr;padding:20px}.and ul{grid-template-columns:1fr}.and .ph{order:-1;height:300px}}
+</style></head>
 <body>
 
 <nav>
@@ -441,7 +450,14 @@ footer b{color:var(--violet);font-weight:600}
     </div>
   </div>
 
-  <section id="apps" data-reveal>
+  <section id="android" data-reveal><div class="wrap"><div class="eyebrow">نسخة الموبايل</div><h2 class="title">فيكس مانجر على أندرويد</h2>
+<div class="and"><div><h3>ورشتك في جيبك</h3><p class="d">نفس الحسابات اللي في نسخة الويندوز، على تليفونك. سجّل الجهاز واستلمه وسلّمه وإنت واقف قدام العميل.</p>
+<ul><li>أوامر شغل وعملاء وأجهزة</li><li>صور الجهاز لحظة الاستلام</li><li>تسعير وإيصالات وفواتير</li><li>مخزن وموردين وكشف حساب</li><li>نسخ احتياطي على جوجل درايف</li><li>شغال من غير نت</li><li>تحديثات</li></ul>
+<a class="btn btn-gold" href="FixManager-R38-signed.apk" download>تحميل لأندرويد <small>(13 MB)</small></a>
+<p class="note">الإصدار 1.0.51 · أندرويد · بعد التحميل اسمح بالتثبيت من المتصفح</p></div>
+<div class="ph"><img id="andlogo" alt=""><b>FIX MANAGER</b><small>أندرويد</small></div></div></div></section>
+<script>document.getElementById('andlogo').src=document.querySelector('.logo img').src</script>
+<section id="apps" data-reveal>
     <div class="eyebrow">تطبيقات أخرى</div>
     <h2 class="title">تطبيقات أندرويد من AHMED STORE</h2>
     <div class="apps">
