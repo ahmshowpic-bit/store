@@ -1,0 +1,96 @@
+{
+    "versionCode":  52,
+    "versionName":  "1.0.51 (R38)",
+    "apkUrl":  "https://ahmshowpic-bit.github.io/store/FixManager-R38-signed.apk",
+    "sha256":  "a375020d5824eb87df40c978f9738cf21ce7217c3561b58bc81d109a1f541ce1",
+    "sizeBytes":  13368986,
+    "notes":  [
+                  {
+                      "value":  "تحديث إلزامي من داخل التطبيق",
+                      "PSPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing\\notes-ar.txt",
+                      "PSParentPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                      "PSChildName":  "notes-ar.txt",
+                      "PSDrive":  {
+                                      "CurrentLocation":  "Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                                      "Name":  "C",
+                                      "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                      "Root":  "C:\\",
+                                      "Description":  "",
+                                      "MaximumSize":  null,
+                                      "Credential":  "System.Management.Automation.PSCredential",
+                                      "DisplayRoot":  null
+                                  },
+                      "PSProvider":  {
+                                         "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                         "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                         "Name":  "FileSystem",
+                                         "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                         "ModuleName":  "Microsoft.PowerShell.Core",
+                                         "Module":  null,
+                                         "Description":  "",
+                                         "Capabilities":  52,
+                                         "Home":  "C:\\Users\\AHMED SAYED",
+                                         "Drives":  "C D"
+                                     },
+                      "ReadCount":  1
+                  },
+                  {
+                      "value":  "إصلاح إشعار رفع Drive",
+                      "PSPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing\\notes-ar.txt",
+                      "PSParentPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                      "PSChildName":  "notes-ar.txt",
+                      "PSDrive":  {
+                                      "CurrentLocation":  "Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                                      "Name":  "C",
+                                      "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                      "Root":  "C:\\",
+                                      "Description":  "",
+                                      "MaximumSize":  null,
+                                      "Credential":  "System.Management.Automation.PSCredential",
+                                      "DisplayRoot":  null
+                                  },
+                      "PSProvider":  {
+                                         "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                         "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                         "Name":  "FileSystem",
+                                         "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                         "ModuleName":  "Microsoft.PowerShell.Core",
+                                         "Module":  null,
+                                         "Description":  "",
+                                         "Capabilities":  52,
+                                         "Home":  "C:\\Users\\AHMED SAYED",
+                                         "Drives":  "C D"
+                                     },
+                      "ReadCount":  2
+                  },
+                  {
+                      "value":  "ربط Google Drive ثابت ورسائل أخطاء أوضح",
+                      "PSPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing\\notes-ar.txt",
+                      "PSParentPath":  "C:\\Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                      "PSChildName":  "notes-ar.txt",
+                      "PSDrive":  {
+                                      "CurrentLocation":  "Users\\AHMED SAYED\\Downloads\\fixmanager-r38-signing-kit\\FixManager-R38-signing",
+                                      "Name":  "C",
+                                      "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                      "Root":  "C:\\",
+                                      "Description":  "",
+                                      "MaximumSize":  null,
+                                      "Credential":  "System.Management.Automation.PSCredential",
+                                      "DisplayRoot":  null
+                                  },
+                      "PSProvider":  {
+                                         "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                         "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                         "Name":  "FileSystem",
+                                         "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                         "ModuleName":  "Microsoft.PowerShell.Core",
+                                         "Module":  null,
+                                         "Description":  "",
+                                         "Capabilities":  52,
+                                         "Home":  "C:\\Users\\AHMED SAYED",
+                                         "Drives":  "C D"
+                                     },
+                      "ReadCount":  3
+                  }
+              ]
+}
